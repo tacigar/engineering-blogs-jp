@@ -3,7 +3,7 @@
 * 株式会社Aiming https://developer.aiming-inc.com/
 * 株式会社エイチーム https://www.wantedly.com/stories/s/a-tm_engineer
 * BASE株式会社 https://devblog.thebase.in/
-* 弁護士ドットコム株式会社 https://blog.bengo4.com/m/mefab063665cc/hashtag/29940
+* 弁護士ドットコム株式会社 https://blog.bengo4.com/m/mefab063665cc
 * 株式会社ビットエー https://tech.bita.jp/
 * 株式会社ビズリーチ https://engineering.visional.inc/blog/
 * クラスメソッド株式会社 https://dev.classmethod.jp/category/blog/
