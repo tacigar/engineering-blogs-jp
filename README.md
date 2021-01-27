@@ -38,6 +38,7 @@
 * 株式会社ミクシィ https://medium.com/mixi-developers
 * 株式会社モバイルファクトリー https://tech.mobilefactory.jp/
 * 株式会社マネーフォワード https://moneyforward.com/engineers_blog/
+* 株式会社　日本経済新聞社 https://hack.nikkei.com/blog/
 * 株式会社ヌーラボ https://nulab.com/ja/blog/categories/techblog/
 * 株式会社オプティム https://tech-blog.optim.co.jp/
 * 株式会社オプト https://tech-magazine.opt.ne.jp/
