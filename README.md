@@ -29,9 +29,11 @@
 * 株式会社LIFULL https://www.lifull.blog/
 * LINE株式会社 https://engineering.linecorp.com/ja/blog/
 * エムスリー株式会社 https://www.m3tech.blog/
+* 株式会社メドレー https://developer.medley.jp/
 * 株式会社メルカリ https://engineering.mercari.com/blog/
 * 株式会社ミラティブ https://tech.mirrativ.stream/
 * 株式会社ミクシィ https://medium.com/mixi-developers
+* 株式会社モバイルファクトリー https://tech.mobilefactory.jp/
 * 株式会社マネーフォワード https://moneyforward.com/engineers_blog/
 * 株式会社ヌーラボ https://nulab.com/ja/blog/categories/techblog/
 * 株式会社オプティム https://tech-blog.optim.co.jp/
@@ -48,6 +50,7 @@
 * 株式会社SmartHR https://tech.smarthr.jp/
 * スマートニュース株式会社 https://developer.smartnews.com/blog/
 * Speee株式会社 https://tech.speee.jp/
+* Treasure Data, Inc. https://tug.red/
 * 株式会社ユーザベース https://tech.uzabase.com/
 * 株式会社VOYAGE GROUP https://techlog.voyagegroup.com/
 * ウォンテッドリー株式会社 https://www.wantedly.com/stories/s/wantedly_engineers
