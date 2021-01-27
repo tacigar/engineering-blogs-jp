@@ -24,6 +24,7 @@
 * 株式会社ぐるなび https://developers.gnavi.co.jp/
 * 株式会社はてな https://developer.hatenastaff.com/
 * ヘイ株式会社 https://tech.hey.jp/
+* HiCustomer株式会社 https://tech.hicustomer.jp/
 * 株式会社HRBrain https://times.hrbrain.co.jp/
 * Increments株式会社 https://blog.qiita.com/
 * 株式会社カカクコム https://note.com/tabelog_frontend
