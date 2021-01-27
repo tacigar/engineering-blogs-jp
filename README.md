@@ -20,10 +20,12 @@
 * GMOペパボ株式会社 https://tech.pepabo.com/
 * グリー株式会社 https://labs.gree.jp/blog/
 * Gunosy株式会社 https://tech.gunosy.io/
+* 株式会社ぐるなび https://developers.gnavi.co.jp/
 * 株式会社はてな https://developer.hatenastaff.com/
 * ヘイ株式会社 https://tech.hey.jp/
 * 株式会社HRBrain https://times.hrbrain.co.jp/
 * Increments株式会社 https://blog.qiita.com/
+* 株式会社カカクコム https://note.com/tabelog_frontend
 * 面白法人カヤック https://techblog.kayac.com/
 * KLab株式会社 https://www.klab.com/jp/blog/tech/
 * 株式会社LIFULL https://www.lifull.blog/
@@ -44,6 +46,7 @@
     + https://recruit-tech.co.jp/blog/
     + https://atl.recruit-tech.co.jp/blog/
     + https://tech.recruit-mp.co.jp/
+* Retty株式会社 https://engineer.retty.me/
 * さくらインターネット株式会社 https://knowledge.sakura.ad.jp/
 * Sansan株式会社 https://buildersbox.corp-sansan.com/
 * スマートキャンプ株式会社 https://tech.smartcamp.co.jp/
@@ -52,6 +55,7 @@
 * Speee株式会社 https://tech.speee.jp/
 * Treasure Data, Inc. https://tug.red/
 * 株式会社ユーザベース https://tech.uzabase.com/
+* UUUM株式会社 https://system.blog.uuum.jp/
 * 株式会社VOYAGE GROUP https://techlog.voyagegroup.com/
 * ウォンテッドリー株式会社 https://www.wantedly.com/stories/s/wantedly_engineers
 * ヤフー株式会社 https://techblog.yahoo.co.jp/
