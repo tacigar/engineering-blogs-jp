@@ -10,6 +10,7 @@
 * クックパッド株式会社 https://techlife.cookpad.com/
 * 株式会社サイバーエージェント https://developers.cyberagent.co.jp/blog/
 * サイボウズ株式会社 https://blog.cybozu.io/
+* dely株式会社 https://tech.dely.jp/
 * 株式会社ディー・エヌ・エー https://engineer.dena.com/
 * 合同会社DMM.com https://inside.dmm.com/
 * 株式会社ドワンゴ http://creator.dwango.co.jp/
@@ -58,6 +59,7 @@
 * スマートニュース株式会社 https://developer.smartnews.com/blog/
 * Speee株式会社 https://tech.speee.jp/
 * Treasure Data, Inc. https://tug.red/
+* 株式会社TVer Technologies https://techblog.tver-tech.co.jp/
 * 株式会社ユーザベース https://tech.uzabase.com/
 * UUUM株式会社 https://system.blog.uuum.jp/
 * 株式会社VOYAGE GROUP https://techlog.voyagegroup.com/
