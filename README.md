@@ -16,6 +16,7 @@
 * 株式会社エウレカ https://medium.com/eureka-engineering
 * 株式会社ファブリカコミュニケーションズ https://www.fabrica-com.co.jp/techblog/
 * freee株式会社 https://developers.freee.co.jp/
+* Fringe81株式会社 https://fringeneer.hatenablog.com/
 * フューチャー株式会社 https://future-architect.github.io/
 * GMOペパボ株式会社 https://tech.pepabo.com/
 * グリー株式会社 https://labs.gree.jp/blog/
@@ -39,6 +40,7 @@
 * 株式会社マネーフォワード https://moneyforward.com/engineers_blog/
 * 株式会社ヌーラボ https://nulab.com/ja/blog/categories/techblog/
 * 株式会社オプティム https://tech-blog.optim.co.jp/
+* 株式会社オプト https://tech-magazine.opt.ne.jp/
 * PayPay株式会社 https://blog.paypay.ne.jp/
 * ピクシブ株式会社 https://inside.pixiv.blog/
 * 株式会社リクルート
