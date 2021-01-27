@@ -5,7 +5,7 @@
 * BASE株式会社 https://devblog.thebase.in/
 * 弁護士ドットコム株式会社 https://blog.bengo4.com/m/mefab063665cc
 * 株式会社ビットエー https://tech.bita.jp/
-* 株式会社ビズリーチ https://engineering.visional.inc/blog/
+* ビジョナル株式会社 https://engineering.visional.inc/blog/
 * クラスメソッド株式会社 https://dev.classmethod.jp/category/blog/
 * クックパッド株式会社 https://techlife.cookpad.com/
 * 株式会社サイバーエージェント https://developers.cyberagent.co.jp/blog/
