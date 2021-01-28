@@ -36,6 +36,9 @@
 * レバレジーズ株式会社 https://tech.leverages.jp/
 * 株式会社LIFULL https://www.lifull.blog/
 * LINE株式会社 https://engineering.linecorp.com/ja/blog/
+* 株式会社リブセンス
+    + https://made.livesense.co.jp/
+    + https://analytics.livesense.co.jp/
 * エムスリー株式会社 https://www.m3tech.blog/
 * 株式会社メドレー https://developer.medley.jp/
 * 株式会社メルカリ https://engineering.mercari.com/blog/
