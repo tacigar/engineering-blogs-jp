@@ -5,7 +5,6 @@
 * BASE株式会社 https://devblog.thebase.in/
 * 弁護士ドットコム株式会社 https://blog.bengo4.com/m/mefab063665cc
 * 株式会社ビットエー https://tech.bita.jp/
-* ビジョナル株式会社 https://engineering.visional.inc/blog/
 * クラスメソッド株式会社 https://dev.classmethod.jp/category/blog/
 * クックパッド株式会社 https://techlife.cookpad.com/
 * 株式会社サイバーエージェント https://developers.cyberagent.co.jp/blog/
@@ -64,6 +63,7 @@
 * 株式会社TVer Technologies https://techblog.tver-tech.co.jp/
 * 株式会社ユーザベース https://tech.uzabase.com/
 * UUUM株式会社 https://system.blog.uuum.jp/
+* ビジョナル株式会社 https://engineering.visional.inc/blog/
 * 株式会社VOYAGE GROUP https://techlog.voyagegroup.com/
 * ウォンテッドリー株式会社 https://www.wantedly.com/stories/s/wantedly_engineers
 * ヤフー株式会社 https://techblog.yahoo.co.jp/
