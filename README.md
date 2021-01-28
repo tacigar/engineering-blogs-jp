@@ -20,6 +20,7 @@
 * Fringe81株式会社 https://fringeneer.hatenablog.com/
 * フューチャー株式会社 https://future-architect.github.io/
 * GMOペパボ株式会社 https://tech.pepabo.com/
+* 株式会社グッドパッチ https://goodpatch.com/blog
 * グリー株式会社 https://labs.gree.jp/blog/
 * Gunosy株式会社 https://tech.gunosy.io/
 * 株式会社ぐるなび https://developers.gnavi.co.jp/
