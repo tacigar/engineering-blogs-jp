@@ -57,6 +57,7 @@
 * Retty株式会社 https://engineer.retty.me/
 * さくらインターネット株式会社 https://knowledge.sakura.ad.jp/
 * Sansan株式会社 https://buildersbox.corp-sansan.com/
+* SHOWROOM株式会社 https://tech.showroom.co.jp/
 * スマートキャンプ株式会社 https://tech.smartcamp.co.jp/
 * 株式会社SmartHR https://tech.smarthr.jp/
 * スマートニュース株式会社 https://developer.smartnews.com/blog/
