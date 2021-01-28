@@ -4,6 +4,7 @@
 
 * 株式会社ABEJA https://tech-blog.abeja.asia/
 * 株式会社Aiming https://developer.aiming-inc.com/
+* 株式会社アルファシステムズ https://www.alpha.co.jp/blog/
 * 株式会社エイチーム https://www.wantedly.com/stories/s/a-tm_engineer
 
 ### B
@@ -142,6 +143,7 @@
 ### V
 
 * ビジョナル株式会社 https://engineering.visional.inc/blog/
+* 株式会社ビビッドガーデン https://tech.tabechoku.com/
 * 株式会社VOYAGE GROUP https://techlog.voyagegroup.com/
 
 ### W
