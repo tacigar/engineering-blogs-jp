@@ -18,7 +18,9 @@
 * freee株式会社 https://developers.freee.co.jp/
 * Fringe81株式会社 https://fringeneer.hatenablog.com/
 * フューチャー株式会社 https://future-architect.github.io/
+* GMOアドパートナーズ株式会社 https://techblog.gmo-ap.jp/
 * GMOペパボ株式会社 https://tech.pepabo.com/
+* GMOリサーチ株式会社 https://gmor-sys.com/
 * 株式会社グッドパッチ https://goodpatch.com/blog
 * グリー株式会社 https://labs.gree.jp/blog/
 * Gunosy株式会社 https://tech.gunosy.io/
