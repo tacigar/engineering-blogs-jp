@@ -33,8 +33,10 @@
 ### F
 
 * 株式会社ファブリカコミュニケーションズ https://www.fabrica-com.co.jp/techblog/
+* 株式会社FIXER https://tech-blog.cloud-config.jp/
 * freee株式会社 https://developers.freee.co.jp/
 * Fringe81株式会社 https://fringeneer.hatenablog.com/
+* 富士通クラウドテクノロジーズ株式会社 https://tech.fjct.fujitsu.com/
 * フューチャー株式会社 https://future-architect.github.io/
 
 ### G
