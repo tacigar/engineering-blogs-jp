@@ -33,6 +33,7 @@
 * 株式会社カカクコム https://note.com/tabelog_frontend
 * 面白法人カヤック https://techblog.kayac.com/
 * KLab株式会社 https://www.klab.com/jp/blog/tech/
+* レバレジーズ株式会社 https://tech.leverages.jp/
 * 株式会社LIFULL https://www.lifull.blog/
 * LINE株式会社 https://engineering.linecorp.com/ja/blog/
 * エムスリー株式会社 https://www.m3tech.blog/
