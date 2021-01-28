@@ -105,6 +105,7 @@
 
 ### R
 
+* 楽天株式会社 https://commerce-engineer.rakuten.careers/
 * 株式会社リクルート
     + https://engineer.recruit-lifestyle.co.jp/techblog/
     + https://recruit-tech.co.jp/blog/
