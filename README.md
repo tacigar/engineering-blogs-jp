@@ -103,6 +103,8 @@
 
 ### Q
 
+* Quipper Ltd https://quipper.hatenablog.com/
+
 ### R
 
 * 楽天株式会社 https://commerce-engineer.rakuten.careers/
