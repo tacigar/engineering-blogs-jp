@@ -113,6 +113,7 @@
 
 * 株式会社ラクーンホールディングス https://techblog.raccoon.ne.jp/
 * 楽天株式会社 https://commerce-engineer.rakuten.careers/
+* 株式会社レコチョク https://techblog.recochoku.jp/
 * 株式会社リクルート
     + https://engineer.recruit-lifestyle.co.jp/techblog/
     + https://recruit-tech.co.jp/blog/
