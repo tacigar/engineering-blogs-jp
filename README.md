@@ -59,6 +59,7 @@
 
 ### I
 
+* 株式会社インターネットイニシアティブ https://eng-blog.iij.ad.jp/
 * Increments株式会社 https://blog.qiita.com/
 
 ### J
