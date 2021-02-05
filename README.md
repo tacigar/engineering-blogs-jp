@@ -37,6 +37,7 @@
 
 * 株式会社ファブリカコミュニケーションズ https://www.fabrica-com.co.jp/techblog/
 * 株式会社FIXER https://tech-blog.cloud-config.jp/
+* 株式会社フリークアウト https://backyard.fout.co.jp/
 * freee株式会社 https://developers.freee.co.jp/
 * Fringe81株式会社 https://fringeneer.hatenablog.com/
 * 富士通クラウドテクノロジーズ株式会社 https://tech.fjct.fujitsu.com/
