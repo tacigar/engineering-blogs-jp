@@ -45,6 +45,7 @@
 
 ### G
 
+* 株式会社GA Technologies https://tech.ga-tech.co.jp/
 * GMOアドパートナーズ株式会社 https://techblog.gmo-ap.jp/
 * GMOペパボ株式会社 https://tech.pepabo.com/
 * GMOリサーチ株式会社 https://gmor-sys.com/
