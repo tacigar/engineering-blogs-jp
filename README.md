@@ -106,6 +106,7 @@
 
 * PayPay株式会社 https://blog.paypay.ne.jp/
 * ピクシブ株式会社 https://inside.pixiv.blog/
+* 株式会社プレイド https://tech.plaid.co.jp/
 
 ### Q
 
