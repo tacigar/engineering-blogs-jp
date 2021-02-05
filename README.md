@@ -98,6 +98,7 @@
 
 ### O
 
+* 株式会社オープンエイト https://open8tech.hatenablog.com/
 * 株式会社オプティム https://tech-blog.optim.co.jp/
 * 株式会社オプト https://tech-magazine.opt.ne.jp/
 * 株式会社オロ https://dev.oro.com/
