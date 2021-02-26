@@ -19,6 +19,7 @@
 ### C
 
 * クラスメソッド株式会社 https://dev.classmethod.jp/category/blog/
+* コインチェック株式会社 https://tech.coincheck.blog/
 * クックパッド株式会社 https://techlife.cookpad.com/
 * 株式会社サイバーエージェント https://developers.cyberagent.co.jp/blog/
 * サイボウズ株式会社 https://blog.cybozu.io/
