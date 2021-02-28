@@ -3,6 +3,7 @@
 ### A
 
 * 株式会社ABEJA https://tech-blog.abeja.asia/
+* アクトインディ株式会社 https://tech.actindi.net/
 * 株式会社アドウェイズ https://blog.engineer.adways.net/
 * 株式会社Aiming https://developer.aiming-inc.com/
 * 株式会社アカツキ https://hackerslab.aktsk.jp/
