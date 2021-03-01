@@ -70,6 +70,7 @@
 ### I
 
 * 株式会社インターネットイニシアティブ https://eng-blog.iij.ad.jp/
+* 株式会社一休 https://user-first.ikyu.co.jp/
 * Increments株式会社 https://blog.qiita.com/
 * 株式会社アイスタイル https://techblog.istyle.co.jp/
 
