@@ -136,6 +136,7 @@
     + https://atl.recruit-tech.co.jp/blog/
     + https://tech.recruit-mp.co.jp/
 * Retty株式会社 https://engineer.retty.me/
+* 株式会社ROBOT PAYMENT https://tech.robotpayment.co.jp/
 
 ### S
 
