@@ -76,6 +76,8 @@
 
 ### J
 
+* 株式会社JMDC https://techblog.jmdc.co.jp/
+
 ### K
 
 * 株式会社カカクコム https://note.com/tabelog_frontend
