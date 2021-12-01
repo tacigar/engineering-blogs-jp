@@ -153,6 +153,7 @@
 * スマートニュース株式会社 https://developer.smartnews.com/blog/
 * スネアクロス株式会社 https://s-cross.net/blog_cat/%E3%83%86%E3%83%83%E3%82%AF%E3%83%96%E3%83%AD%E3%82%B0/
 * 株式会社ソリトンシステムズ https://www.soliton-cyber.com/blog
+* SO Technologies株式会社 https://developer.so-tech.co.jp/
 * Speee株式会社 https://tech.speee.jp/
 
 ### T
