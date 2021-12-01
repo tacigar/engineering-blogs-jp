@@ -103,6 +103,7 @@
 * 株式会社メルカリ https://engineering.mercari.com/blog/
 * 株式会社ミラティブ https://tech.mirrativ.stream/
 * 株式会社ミクシィ https://medium.com/mixi-developers
+* メドピア株式会社 https://tech.medpeer.co.jp/
 * 株式会社モバイルファクトリー https://tech.mobilefactory.jp/
 * 株式会社マネーフォワード https://moneyforward.com/engineers_blog/
 
