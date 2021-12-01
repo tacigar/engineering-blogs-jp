@@ -9,6 +9,7 @@
 * 株式会社アカツキ https://hackerslab.aktsk.jp/
 * 株式会社アルファシステムズ https://www.alpha.co.jp/blog/
 * 株式会社アンドパッド https://tech.andpad.co.jp/
+* 株式会社ARIGATOBANK https://medium.com/arigatobank-tech-blog
 * アスクル株式会社 https://tech.askul.co.jp/
 * 株式会社エイチーム https://www.wantedly.com/stories/s/a-tm_engineer
 * 株式会社アトラス https://devlog.atlas.jp/
