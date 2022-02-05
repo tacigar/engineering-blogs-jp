@@ -106,6 +106,7 @@
 * メドピア株式会社 https://tech.medpeer.co.jp/
 * 株式会社モバイルファクトリー https://tech.mobilefactory.jp/
 * 株式会社マネーフォワード https://moneyforward.com/engineers_blog/
+* 株式会社モノリスソフト https://www.monolithsoft.co.jp/techblog/
 
 ### N
 
