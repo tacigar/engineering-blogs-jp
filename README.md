@@ -162,6 +162,7 @@
 ### T
 
 * テックタッチ株式会社 https://tech.techtouch.jp/
+* 株式会社タイミー https://tech.timee.co.jp/
 * Treasure Data, Inc. https://tug.red/
 * 株式会社TVer Technologies https://techblog.tver-tech.co.jp/
 
