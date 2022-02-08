@@ -166,8 +166,9 @@
 
 ### U
 
-* 株式会社ユーザベース https://tech.uzabase.com/
+* Ubie株式会社 https://blog.ubie.tech/
 * UUUM株式会社 https://system.blog.uuum.jp/
+* 株式会社ユーザベース https://tech.uzabase.com/
 
 ### V
 
