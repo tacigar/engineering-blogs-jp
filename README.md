@@ -35,6 +35,7 @@
 * dely株式会社 https://tech.dely.jp/
 * 株式会社ディー・エヌ・エー https://engineer.dena.com/
 * 株式会社電通デジタル https://note.com/dd_techblog
+* 株式会社dinii https://note.com/dinii/m/mf6424286cfa2
 * 合同会社DMM.com https://inside.dmm.com/
 * 株式会社ドワンゴ http://creator.dwango.co.jp/
 
