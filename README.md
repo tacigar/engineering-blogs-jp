@@ -22,6 +22,7 @@
 
 ### C
 
+* キャディ株式会社 https://caddi.tech/archives/category/technology
 * Classi株式会社 https://tech.classi.jp/
 * クラスメソッド株式会社 https://dev.classmethod.jp/category/blog/
 * コインチェック株式会社 https://tech.coincheck.blog/
